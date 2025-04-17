@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.unforced.shelfed",
+     "sha256_cert_fingerprints": ["28:2b:16:f6:e8:b1:99:43:51:7a:63:38:2e:b5:9d:63:9d:4d:45:bb:8f:71:d6:05:b6:ac:18:d5:de:59:de:7e"] }
+  }]

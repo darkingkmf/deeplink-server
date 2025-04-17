@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["J8Y23UCMKP.com.unforced.shelfed"],
+		"components": [
+				{
+					"/": "/*",
+					"comment": "Matched any url"
+				}
+			]
+            }
+        ]
+    }
+}
